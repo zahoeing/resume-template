@@ -1,13 +1,22 @@
-# Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+# High School 
+- degree: Academic Honors
+  uni: Rushville Consolidated High School
+  year: 2014 &mdash; 2018
+  awards: 
+    - award: Honor Roll (9th, 10th, 11th, 12th)
+    - award: Varsity Scholars 
+    - award: National Honor Society 
+    - award: Junior Rotarian
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+#Huntington University
+- degree: Bachelor of Science, Computer Science 
+  uni: Huntington University
+  year: Aug, 2018 &mdash; Dec, 2018
+  awards:
+    - award: Deans List (Fall 2018)
+
+- degree: Bachelor of Science, Computer Science
+  uni: Ball State University 
+  year: Jan, 2019 &mdash; Present
+  awards: 
+    - award: Deans List (Spring 2019, Fall 2019, Spring 2020, and Fall 2020)

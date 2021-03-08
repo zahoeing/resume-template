@@ -1,0 +1,8 @@
+#Capstone Project
+- project: Full Court Analytics 
+  role: Developer
+  duration: Sep, 2020 &mdash; May, 2021
+  url: "https://github.com/bwoody3142/FullCourtAnalyticsSrc"
+  description: A subscription-based analytics tool for basketball coaches that provides insight on the efficiency of their team from season performance to game performance. The tool also includes advanced stat tracking, line-up proficiencies, and play-by-play tracking.
+  techstack: <b><u>Tech-Stack</u></b><ul><li>React</li><li>Nodejs</li><li>Firebase</li><li>Cypress</li></ul>
+  contributions: <b><u>Contributions</u></b><ul><li>Create the Home Page</li><li>Add User Interface testing using Cypress</li><li>Helped with the design of the database through Cloud Firestore</li><li>Re-style the upload page</li><li>Filling out meeting minutes for our meetings</li></ul>

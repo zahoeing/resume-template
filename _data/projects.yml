@@ -1,16 +1,15 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# NBA Player Stats 
+- project: NBA Player Stats 
+  role: Developer
+  duration: Jan, 2020 &mdash; May, 2020
+  url: "https://github.com/zahoeing/NBAPlayerStats"
+  description: This project was made to give the user fast and easy access to their favorite NBA player's live or previous stats, while also having the ability to compare their stats side-by-side with another player. The stats consist of the nine fantasy relevant statistics.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Operating Systems CPU Scheduling (RR & SJF)
+- project: Operating Systems CPU Scheduling 
+  role: Developer
+  duration: Feb, 2021 &mdash; Mar, 2021
+  url: "https://github.com/zahoeing/OperatingSystemsProject1"
+  description: This project was to help us learn about the different CPU scheduling algoriths. My partner and I had to implement the Round-Robin and the Shortest-Job First algorithms while also calculating the CPU wait times for each process. 

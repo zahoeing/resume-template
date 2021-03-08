@@ -20,10 +20,10 @@ resume_contact_email:           "zhoeing@gmail.com"
 resume_contact_telephone:       "765-561-6041"
 resume_contact_address:         "7059 N 150 E Rushville, Indiana, 46173"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "7059 N 150 E Rushville, Indiana 46173  • 765-561-6041 • zhoeing@gmail.com"
+display_header_contact_info:    "true"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>I am a senior at Ball State University looking to pursue a career in software engineering mainly in web development.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -37,9 +37,10 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
+resume_section_volunteering:    true
+resume_section_recognition:     false
+resume_section_links:           false
+resume_section_associations:    false
 resume_section_interests:       true
 
 # Resume social links

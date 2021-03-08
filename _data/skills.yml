@@ -1,12 +1,12 @@
-# Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# TechnicalSkills
+#IDEs
+- skill: <b><u>IDEs</u></b>
+  description: <ul><li>Visual Studio Code</li><li>IntelliJ</li><li>Pycharm</li><li>NotePad ++</li></ul>
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+#Programming Languages 
+- skill: <b><u>Programming Languages</u></b>
+  description: <ul><li>Java</li><li>JavaScript</li><li>HTML</li><li>Python</li><li>ASP.NET</li><li>C#</li></ul>
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+#Frameworks/libraries/technologies 
+- skill: <b><u>Frameworks, Libraries, and Technologies</u></b> 
+  description: <ul><li>React</li><li>CSS</li><li>Bootstrap</li><li>JUnit</li></ul>

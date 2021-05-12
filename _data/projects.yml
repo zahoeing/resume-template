@@ -13,3 +13,4 @@
   duration: Feb, 2021 &mdash; Mar, 2021
   url: "https://github.com/zahoeing/OperatingSystemsProject1"
   description: This project was to help us learn about the different CPU scheduling algoriths. My partner and I had to implement the Round-Robin and the Shortest-Job First algorithms while also calculating the CPU wait times for each process. 
+
